@@ -1,0 +1,4 @@
+provider: github
+owner: HurtStampyCat
+repo: Saga
+updaterCacheDirName: SagaUpdater
